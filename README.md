@@ -19,7 +19,7 @@ A real-time AI-powered hand detection system that counts raised hands in a video
 - Python 3.x
 - Webcam
 - Required packages (see requirements.txt)
-- Moondream model file
+- Moondream model file (installs automatically with transformers)
 
 ## 📦 Installation
 
